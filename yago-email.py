@@ -6,3 +6,4 @@ contents = "ki hal aa thk hu "
 yag.send('iamok7372@gmail.com', 'Changing dffdff filfdfdfddffddfdfdffdffdffde compdfdfdfdf dfldfdfdfdfdfetely', contents)
 
 print("email has been sent")
+wds
